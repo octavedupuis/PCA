@@ -1,2 +1,2 @@
-# PCA
-PCA algorithms from scratch
+# PCA/CFA
+PCA and CFA algorithms from scratch
